@@ -3,8 +3,8 @@
     padding: 0px;
 }
 .quadrado {
-    width: 79px;
-    height: 79px;
+    width: 70px;
+    height: 70px;
     border: 1px solid black;
     display: flex;
     align-items: center;
